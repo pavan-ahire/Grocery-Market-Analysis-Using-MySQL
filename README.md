@@ -3,7 +3,6 @@
 
 This project focuses on designing a **Grocery Store Management System**, performing **data modeling**, writing **optimized SQL queries**, and generating **business insights** to support real-world decision-making.  
 All analysis and insights are derived from database operations implemented using **MySQL**.  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
