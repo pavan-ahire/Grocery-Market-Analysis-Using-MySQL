@@ -27,6 +27,25 @@ This project demonstrates how SQL can be used to create a complete **end-to-end 
 - 🛠 **Practice SQL:** Strengthen hands-on skills in schema design and query optimization.
 
 ---
+## 🛠️ Tech Stack & Tools  
+
+<!-- Programming Language -->
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- Supporting Tools -->
+![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD%20Modeling-8E44AD?style=for-the-badge&logo=mermaid&logoColor=white)
+
+<!-- Platforms / Workflow -->
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E8449?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-F1C40F?style=for-the-badge&logo=ionic&logoColor=black)
+
+<!-- Project Status -->
+![Project](https://img.shields.io/badge/Project-Grocery%20Market%20Analysis-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+---
 
 ## 🗺 Entity Relationship Diagram (ERD)
 The ERD includes the following relationships:  
@@ -127,14 +146,7 @@ SQL proves to be an essential tool for improving grocery business performance.
 
 ---
 
-## 🛠️ Tech Stack  
 
-- 🧰 **MySQL**  
-- 🔍 SQL Joins, Subqueries, Aggregations  
-- 🧑‍💻 ERD & Database Modeling  
-- 📄 Documented Insights  
-
----
 
 ## 🤝 Connect With Me  
 
